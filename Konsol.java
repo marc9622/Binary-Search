@@ -14,8 +14,8 @@ public class Konsol {
   void sort(int number) {
     int[] array = createArray();
     System.out.println(Arrays.toString(array));
-    System.out.println(binarySearch(array, number));
-    System.out.println(Arrays.binarySearch(array, number));
+    System.out.println(binarySearch(array, number) + " was the index my algorithm found.");
+    System.out.println(Arrays.binarySearch(array, number) + " was the index Java's built-in algorithm found.");
   }
 
   int[] createArray() {
