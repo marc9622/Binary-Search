@@ -1,6 +1,6 @@
 echo off
 title HaCkErTiMe
-cd C:\Users\marcu\OneDrive\Gym -------\Programmering\Java
+cd C:\Users\marcu\OneDrive\Gym -------\Programmering\Binary-Search
 
 :start
 cls
